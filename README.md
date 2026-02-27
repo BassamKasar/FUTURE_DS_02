@@ -20,8 +20,3 @@ This project analyzes a dataset of 7,032 telecommunications customers to identif
 1. **Contract Migration:** Launch a "Loyalty Upgrade" campaign to move Month-to-Month users into 1-year contracts with a 10% discount.
 2. **Quality Audit:** Conduct a technical audit of Fiber Optic service quality in high-churn regions.
 3. **Onboarding:** Offer a "Premium Support" trial for the first 3 months to new users to lower early-tenure attrition.
-
-## 📂 Project Files
-* `/Dashboard`: Export of the Power BI Report.
-* `/Data`: Cleaned dataset.
-* `analysis_notebook.pbix`: Power BI source file.
