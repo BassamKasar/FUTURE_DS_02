@@ -3,7 +3,7 @@
 # Customer Retention & Churn Analysis (Telco)
 
 ## 📌 Project Overview
-This project analyzes a dataset of 7,043 telecommunications customers to identify the key drivers of churn. The goal is to provide actionable insights for a subscription-based business to improve customer lifetime value (LTV).
+This project analyzes a dataset of 7,032 telecommunications customers to identify the key drivers of churn. The goal is to provide actionable insights for a subscription-based business to improve customer lifetime value (LTV).
 
 ## 🛠️ Tools Used
 * **Power BI:** Data visualization, DAX measures, and interactive dashboarding.
