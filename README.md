@@ -5,6 +5,9 @@
 ## 📌 Project Overview
 This project analyzes a dataset of 7,032 telecommunications customers to identify the key drivers of churn. The goal is to provide actionable insights for a subscription-based business to improve customer lifetime value (LTV).
 
+## Cleaned Data and Dashboard in Power BI
+https://seuedu-my.sharepoint.com/:u:/g/personal/s210024849_seu_edu_sa/IQAkt7qgksbOSqN2wdquApoEAbTkK8PYM3IJJiC1jFYNGps?e=z78JQ7
+
 ## 🛠️ Tools Used
 * **Power BI:** Data visualization, DAX measures, and interactive dashboarding.
 * **Excel:** Initial data cleaning and Pivot Table exploratory analysis.
